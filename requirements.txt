@@ -1,1 +1,6 @@
-tensorflows
+tensorflow
+pandas
+ta
+giotto-tda
+livelossplot
+scikit-learn
